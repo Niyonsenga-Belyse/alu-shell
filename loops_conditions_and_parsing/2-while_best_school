@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This script displays "Best School" 10 times
-
+# This script is displaying "Best School" 10 times
+# Shellcheck style wants dummy _ variable if not using
 i=1
 while (( i <= 10 ));
 do
